@@ -6,10 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=FwedsW&style=flat-square&color=blue" alt=""/>
 </div>
 
-                                                          Born in the USA 🦅
-
-                                                            Half Mexican
-
-                                                            Knows Lua, C#
-
-                                              I Do Commissions Look At The Commisions Repository
+                                                          Born in the US
+                                                           -          -
+                                                           Half Mexican
+                                                           -          -
+                                                           Know Lua, C#
+                                        -                                                -
+                                        I Do Commissions Look At The Commisions Repository
