@@ -6,11 +6,11 @@
   <img src="https://komarev.com/ghpvc/?username=FwedsW&style=flat-square&color=blue" alt=""/>
 </div>
 
-                                                           Born in the USA 🦅
+                                                          Born in the USA 🦅
 
-                                                           Half Mexican
+                                                          Half Mexican
 
-                                                           Knows Lua, C#
+                                                          Knows Lua, C#
 
                              Commissions (USD Only) Cashapp, Crpyto, Robux (1.5X Value So $50 Would Be 7.5K)
 
