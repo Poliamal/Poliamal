@@ -12,4 +12,4 @@
 
                                                             Knows Lua, C#
 
-                                                I Do Commissions Look At The Commisions Repository
+                                              I Do Commissions Look At The Commisions Repository
