@@ -1,9 +1,9 @@
 <div id="header" align="center">
-  <img src="https://github.com/FwedsW/FwedsW/assets/165351342/e5961387-f69e-4ec4-ad89-ceeaeda8e10d" width="500" height="250"/>
+  <img src="https://komarev.com/ghpvc/?username=FwedsW&style=flat-square&color=blue" alt="" width="200" height="100"/>
 </div>
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=FwedsW&style=flat-square&color=blue" alt=""/>
+  <img src="https://github.com/FwedsW/FwedsW/assets/165351342/e5961387-f69e-4ec4-ad89-ceeaeda8e10d" width="500" height="250"/>
 </div>
 
                                                           Born in the US
