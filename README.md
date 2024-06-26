@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=FwedsW&style=flat-square&color=blue" alt="" width="200" height="100"/>
+  <img src="https://komarev.com/ghpvc/?username=FwedsW&style=flat-square&color=blue" alt="" width="200" height="50"/>
 </div>
 
 <div id="header" align="center">
