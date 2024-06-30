@@ -8,7 +8,7 @@
 
                                                           Born in the US
                                                            -          -
-                                                           Half Mexican
+                                                           NO Louisiana
                                                            -          -
                                                            Know Lua, C#
                                          -                                                -
