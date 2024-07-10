@@ -3,7 +3,7 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/671860993407713291.png" alt="" width="450" height="1000"/>
+  <img src="https://discord.c99.nl/widget/theme-4/671860993407713291.png" alt="" width="450" height="100"/>
 </div>
 
                                                           Born in the US
