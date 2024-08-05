@@ -8,8 +8,6 @@
 
                                                           Born in the US
                                                            -          -
-                                                           NO Louisiana
-                                                           -          -
                                                            Know Lua, C#
                                          -                                                -
                                          I Do Commissions Look At The Commisions Repository
