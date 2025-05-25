@@ -4,6 +4,6 @@
 
                                                           Born in the US
                                                            -          -
-                                                           LUA, HTML, CSS, C#(Barely), JS(Barely)
+                                              LUA, HTML, CSS, C#(Barely), JS(Barely)
                                          -                                                -
                                          I Do Commissions Look At The Commisions Repository
